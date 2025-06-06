@@ -25,13 +25,13 @@
 
   <div class="My Project">
     <h3>Motor Custom</h3>
-    <img src="images/.gitkeep.jpg" alt="Desain UI Mobile" width="300" />
+    <img src="images/.project1.jpg" alt="Desain UI Mobile" width="300" />
     <p>Proyek desain antarmuka aplikasi mobile menggunakan Figma.</p>
   </div>
 
   <div class="project">
     <h3>Website Company Profile</h3>
-    <img src="images/proyek2.jpg" alt="Website Company Profile" width="300" />
+    <img src="images/.jpg" alt="Website Company Profile" width="300" />
     <p>Membuat situs statis untuk profil perusahaan.</p>
   </div>
 </section>

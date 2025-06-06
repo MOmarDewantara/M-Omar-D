@@ -22,7 +22,7 @@
 
   <section id="portfolio">
     <h2>Portofolio</h2>
-    <p>![Uploading l1.jpg…]()
+    <p>(d)
 .</p>
   </section>
 

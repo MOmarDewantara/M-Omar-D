@@ -1,2 +1,1 @@
-# M-Omar-D
-Suka motoran
+M Omar D.gi

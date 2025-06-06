@@ -25,7 +25,7 @@
 
   <div class="My Project">
     <h3>Motor Custom</h3>
-    <img src="images/.project1.jpg" alt="Desain UI Mobile" width="300" />
+    <img src="images/.project1.jpg" alt="images/WhatsApp Image 2025-06-07 at 02.05.53_316e9b9b.jpg" width="300" />
     <p>Proyek desain antarmuka aplikasi mobile menggunakan Figma.</p>
   </div>
 

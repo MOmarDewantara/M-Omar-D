@@ -21,18 +21,12 @@
   </section>
 
   <section id="My Project">
-  <h2>y Project</h2>
+  <h2>My Project</h2>
 
   <div class="My Project">
     <h3>Motor Custom</h3>
-    <img src="images/.project1.jpg" alt="images/WhatsApp Image 2025-06-07 at 02.05.53_316e9b9b.jpg" width="300" />
-    <p>Proyek desain antarmuka aplikasi mobile menggunakan Figma.</p>
-  </div>
-
-  <div class="project">
-    <h3>Website Company Profile</h3>
-    <img src="images/.jpg" alt="Website Company Profile" width="300" />
-    <p>Membuat situs statis untuk profil perusahaan.</p>
+    <img src="images/WhatsApp Image 2025-06-07 at 02.05.53_316e9b9b.jpg" alt="images/WhatsApp Image 2025-06-07 at 02.05.53_316e9b9b.jpg" width="300" />
+    <p>Ini adalah contoh motor custom yang saya buat. Terparkir di parkiran Statistika Bisnis vokasi ITS</p>
   </div>
 </section>
 

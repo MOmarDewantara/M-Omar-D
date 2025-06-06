@@ -10,7 +10,7 @@
     <h1>M Omar Dewantara</h1>
     <nav>
       <a href="#about"></a>
-      <a href="#portfolio"></a>
+      <a href="#My Project"></a>
       <a href="#contact">WA 085141168066</a>
     </nav>
   </header>
@@ -20,11 +20,22 @@
     <p>Saya mempunyai Hobby yang unik, yaitu motoran. Saya suka motor custom, hal yang berkaitan dengan custom pada kendaraan saya sangat suka.</p>
   </section>
 
-  <section id="portfolio">
-    <h2>images/l1.jpg" alt="Proyek 1" width="300"</h2>
-    <p>(d)
-.</p>
-  </section>
+  <section id="My Project">
+  <h2>y Project</h2>
+
+  <div class="My Project">
+    <h3>Motor Custom</h3>
+    <img src="images/.gitkeep.jpg" alt="Desain UI Mobile" width="300" />
+    <p>Proyek desain antarmuka aplikasi mobile menggunakan Figma.</p>
+  </div>
+
+  <div class="project">
+    <h3>Website Company Profile</h3>
+    <img src="images/proyek2.jpg" alt="Website Company Profile" width="300" />
+    <p>Membuat situs statis untuk profil perusahaan.</p>
+  </div>
+</section>
+
 
   <section id="contact">
     <h2>Kontak</h2>

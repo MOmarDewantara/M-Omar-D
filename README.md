@@ -21,7 +21,7 @@
   </section>
 
   <section id="portfolio">
-    <h2>Portofolio</h2>
+    <h2>image</h2>
     <p>(d)
 .</p>
   </section>
